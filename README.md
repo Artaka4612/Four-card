@@ -2,6 +2,8 @@
 
 This is a solution to the [Four card feature section challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/four-card-feature-section-weK1eFYK).
 
+https://artaka4612.github.io/Four-card/
+
 ### Screenshot
 
 ![Four card](./images/mobile-model.jpg)
